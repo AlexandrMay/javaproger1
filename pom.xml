@@ -85,7 +85,6 @@
                     </libs>
                 </configuration>
             </plugin>
-
         </plugins>
     </build>
 
