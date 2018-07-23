@@ -6,6 +6,11 @@ public class MainClass {
 
         double a = DoubleMath.factorial(1);
         System.out.println(a);
+
+
+        String word = "Hello, world";
+        for (char c: word.toCharArray()) System.out.println(c);
+
     }
 
 }
